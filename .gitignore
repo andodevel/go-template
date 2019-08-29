@@ -1,0 +1,19 @@
+# UNCOMENT BELOW
+# *.o
+# *.a
+# *.so
+# *.test
+# *.prof
+# *.out
+
+# credentials.json
+# token.json
+# .env*
+
+# vendor/
+# tmp/
+# bin/
+
+# # IDE specific files
+# .vscode
+# .idea
